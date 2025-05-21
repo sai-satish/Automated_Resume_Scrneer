@@ -2,8 +2,8 @@ from motor.motor_asyncio import AsyncIOMotorClient
 from odmantic import AIOEngine
 from urllib.parse import quote_plus
 import os
-from dotenv import loadenv
-loadenv()
+from dotenv import load_dotenv
+load_dotenv()
 
 username = quote_plus(os.getenv("AZURE_COSMOS_DB_USERNAME"))
 password = quote_plus(os.getenv("AZURE_COSMOS_DB_KEY"))
