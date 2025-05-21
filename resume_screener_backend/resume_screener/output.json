@@ -1,0 +1,61 @@
+{'6f151ee6-332f-4eb4-86b8-28a84671b8ea_resume_satish (2).json': 
+    {'structured_resume_data': 
+        {'name': 'Sai Satish Nilla', 'address': None, 'email': 'saisatishnilla@gmail.com', 'phone': '+91 9492319192', 'github': 'github.com/sai-satish', 'linkedin': 'linkedin.com/in/sai-satish-n-9501a628b', 'objective': "Enthusiastic and dedicated Computer Science student with a profound interest in cloud computing, Backend software development. Proficient in Java, Python, SQL, and cloud platforms. I aim to deliver secure and scalable technology solutions. Eager to apply my combined knowledge of Cloud Computing and Backend Development skills into real-world scenarios. Education · Indian Institue of Technology Madras Bachelor of Science, Data Science and Applications CGPA: 9.33 Sep 2023 - 2027 · Rajiv Gandhi University of Knowledge and Technologies Nuzvid Bachelor of Technology (B.Tech), Computer Science CGPA: 9.17 Aug 2022 - Present Coding Languages: Java, Python, Dart, C, JavaScript Skills Technical Skills: SQL, Data Structures, Algorithms, Flutter, Django, NodeJs, ExpressJs, HTML, CSS Cloud Platforms: AWS, Azure, GCP Operating Systems: Windows, Linux Soft Skills: Communication, Problem Solving, Troubleshooting, Time management Work Experience Data Science Trainee SABUDH Foundation, Punjab - Remote Jan 2025 - May 2025 · Exploring the world of Artificial Intelligence and Machine Learning · Gained hands-on experience in training basic Machine Learning models · I grasped the efficiency brought about by the field of machine learning and am delving into its depths. Backend Developer Intern Feb 2025 - May 2025 SlateMate, Nirmaan & IIT Madras - Remote · Developing the backend of the application using Django. · Managed routing and authentication within the application. · Implementing a role-based authentication system for secure app access. Cyber Security Intern APSSDC in collaboration with EduNet Foundation June 2024 - July 2024 · Strong understanding of online safety practices · Helped to find and analyze possible security threats. Google Developers Student Clubs Member(Cloud Computing) July 2023 - July 2024 · Acquired in-depth knowledge of cutting-edge Cloud Computing technologies. · Gained hands-on experience with Google Cloud Platform (GCP). · Worked with GCP infrastructure components, including Compute Engine, Cloud Storage, VPC, VPC Routing, Cloud Load Balancing. Projects Voice For Her - Link · Designed and implemented the application's UI to ensure a seamless user experience. · Contributed to the development of a cross-platform application using Flutter. · Tech Stack: Flutter, Node.js (backend) Image Steganography - Link · Developed an application for secure encrypted data transfer using steganography techniques following Software Development priciples. · Embedded secret messages into images, utilizing a secret key. Ensured responsibilities for secure communication by requiring the same secret key for decryption. · Achieves 70% secure transfer compared to traditional data transfer methods, demonstrating resistance against 90% of brute-force attacks. · Tech Stack: Python, OpenCV (cv2) Optical Character Recognition - Link · Developed Optical Character Recognition (OCR) technology to extract text from images, particularly from tables, and provides question-answering capabilities based on the extracted data. · Used PaddleOCR and EasyOCR modules to extract text from the image and convert it into a structured JSON format, allowing for easier for data manipulation and query processing. · Used the distilbert-bert model to create an interactive chatbot that answers users queries based on the uploaded image's contents. · Achieved over 90% success in accurately detecting and extracting text from images, particularly tables, using ad- vanced OCR techniques with PaddleOCR. · Tech Stack: Python, OpenCV (cv2), EasyOCR, PaddleOCR, Jupyter Notebook Certifications . Introduction to DevOps on AWS AWS · Fundamentals of Cybersecurity with Kali Linux IBM · Online data security Khan Academy · AWS Cloud Technical Essentials AWS · Azure AI Engineer Associate Certificate Microsoft . Introduction to Cloud Computing IBM . Linux Commands & Shell Scripting IBM Extra-Curricular Activities Volunteering Graphic Designing Team CodeCrafter Society, IIT-Madras · Collaborated on graphic design projects, showcasing teamwork and creativity. Compassionathon Qualifier Hackathon organized by IIT-Madras, 2024 · Developed a pet care app prototype in collaboration with a team, reviewed by industry experts Shankar Venugopal (VP, Mahindra Group) and Bala Ramadurai (Professor & Innovation Coach). · This achievement got recognized for its research, problem-solving skills, and innovation, highlights significant con- tributions to the field. Second Runner-Up in Hackathon by RGUKT, October 16, 2024 · Developed OCR engine for Tabular Data Analysis. · Recognized for the Novelity of the solution which leverages benifits of PaddleOCR and EasyOCR modules that increases efficiency in identifying text reducing downsides of both modules.", 'education': [
+                {'institution': 'Indian Institue of Technology', 'description': ' Madras Bachelor of Science, Data Science and Applications CGPA: 9.33', 'duration': 'Sep 2023 - 2027'
+                },
+                {'institution': 'Rajiv Gandhi University of Knowledge and Technologies', 'description': ' Nuzvid Bachelor of Technology (B.Tech), Computer Science CGPA: 9.17 Coding Languages: Java, Python, Dart, C, JavaScript', 'duration': 'Aug 2022 - Present'
+                }
+            ], 'projects': [
+                {'name': 'Voice For Her', 'description': " · Designed and implemented the application's UI to ensure a seamless user experience. · Contributed to the development of a cross-platform application using Flutter. · Tech Stack: Flutter, Node.js (backend)"
+                },
+                {'name': 'Image Steganography', 'description': ' · Developed an application for secure encrypted data transfer using steganography techniques following Software Development priciples. · Embedded secret messages into images, utilizing a secret key. Ensured responsibilities for secure communication by requiring the same secret key for decryption. · Achieves 70% secure transfer compared to traditional data transfer methods, demonstrating resistance against 90% of brute-force attacks. · Tech Stack: Python, OpenCV (cv2)'
+                },
+                {'name': 'Optical Character Recognition', 'description': " · Developed Optical Character Recognition (OCR) technology to extract text from images, particularly from tables, and provides question-answering capabilities based on the extracted data. · Used PaddleOCR and EasyOCR modules to extract text from the image and convert it into a structured JSON format, allowing for easier for data manipulation and query processing. · Used the distilbert-bert model to create an interactive chatbot that answers users queries based on the uploaded image's contents. · Achieved over 90% success in accurately detecting and extracting text from images, particularly tables, using ad- vanced OCR techniques with PaddleOCR. · Tech Stack: Python, OpenCV (cv2), EasyOCR, PaddleOCR, Jupyter Notebook"
+                }
+            ], 'work_experience': [
+                {'description': 'Data Science Trainee SABUDH Foundation, Punjab - Remote'
+                },
+                {'title': '', 'duration': 'Jan 2025 - May 2025', 'description': '· Exploring the world of Artificial Intelligence and Machine Learning · Gained hands-on experience in training basic Machine Learning models · I grasped the efficiency brought about by the field of machine learning and am delving into its depths.'
+                },
+                {'title': 'Backend Developer Intern', 'duration': 'Feb 2025 - May 2025', 'description': 'SlateMate, Nirmaan & IIT Madras - Remote · Developing the backend of the application using Django. · Managed routing and authentication within the application. · Implementing a role-based authentication system for secure app access.'
+                },
+                {'title': 'Cyber Security Intern APSSDC in collaboration with EduNet Foundation', 'duration': 'June 2024 - July 2024', 'description': '· Strong understanding of online safety practices · Helped to find and analyze possible security threats.'
+                },
+                {'title': 'Google Developers Student Clubs Member(Cloud Computing)', 'duration': 'July 2023 - July 2024', 'description': '· Acquired in-depth knowledge of cutting-edge Cloud Computing technologies. · Gained hands-on experience with Google Cloud Platform (GCP). · Worked with GCP infrastructure components, including Compute Engine, Cloud Storage, VPC, VPC Routing, Cloud Load Balancing.'
+                }
+            ], 'certifications': [
+                {'certificate': 'Fundamentals of Cybersecurity with Kali Linux', 'issuer': 'AWS'
+                },
+                {'certificate': 'Online data security', 'issuer': 'IBM'
+                },
+                {'certificate': 'AWS Cloud Technical Essentials', 'issuer': 'Khan Academy'
+                },
+                {'certificate': 'Azure AI Engineer Associate Certificate', 'issuer': 'AWS'
+                },
+                {'certificate': 'Introduction to Cloud Computing', 'issuer': 'Microsoft'
+                },
+                {'certificate': 'Linux Commands & Shell Scripting', 'issuer': 'IBM'
+                }
+            ], 'skills': {'coding_languages': ['Java', 'Python', 'Dart', 'C', 'JavaScript'
+                ], 'technical_skills': ['SQL', 'Data Structures', 'Algorithms', 'Flutter', 'Django', 'NodeJs', 'ExpressJs', 'HTML', 'CSS'
+                ], 'soft_skills': ['Communication', 'Problem Solving', 'Troubleshooting', 'Time management'
+                ]
+            }, 'extra_curricular': [
+                {'name': 'Volunteering Graphic Designing Team CodeCrafter Society, IIT-Madras'
+                },
+                {'name': '· Collaborated on graphic design projects, showcasing teamwork and creativity.', 'description': ' Compassionathon Qualifier'
+                },
+                {'name': 'Hackathon organized by IIT-Madras,
+                    2024 · Developed a pet care app prototype in collaboration with a team, reviewed by industry experts Shankar Venugopal (VP, Mahindra Group) and Bala Ramadurai (Professor & Innovation Coach).', 'description': ' · This achievement got recognized for its research, problem-solving skills, and innovation, highlights significant con- tributions to the field.'
+                },
+                {'name': 'Second Runner-Up in Hackathon', 'description': ' by RGUKT, October 16,
+                    2024 · Developed OCR engine for Tabular Data Analysis. · Recognized for the Novelity of the solution which leverages benifits of PaddleOCR and EasyOCR modules that increases efficiency in identifying text reducing downsides of both modules.'
+                }
+            ]
+        }, 
+        
+        'competency_analysis': {'overall_fit_score': 5, 'overall_summary': "Sai Satish Nilla's resume demonstrates a strong foundation in programming, cloud computing, and data science, evidenced by his projects and internships.  However, without a concrete job description, it's impossible to assess his suitability for a specific role. His skills are diverse, suggesting adaptability, but lack direct, quantifiable achievements relevant to a particular job function. The significant project experience is a strength, but needs context within a specific job description to determine its relevance.", 'strengths_matching_jd': [], 'gaps_in_competency': ['The lack of a specific job description prevents a meaningful assessment of competency gaps.  To provide a relevant analysis, a detailed job description is needed specifying required skills, experience, and educational background.'
+            ], 'fit_status': 'Cannot Determine'
+        }
+    }
+}

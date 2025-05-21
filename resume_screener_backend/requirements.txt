@@ -1,0 +1,15 @@
+pymongo==4.11.2
+odmantic==1.0.2
+djangorestframework
+azure-storage-blob
+python-decouple
+django-azure-auth
+pymongo
+msal
+django-cors-headers
+dnspython
+python-dotenv
+django
+google-generativeai
+azure-ai-formrecognizer
+gunicorn
