@@ -47,14 +47,41 @@ venv\Scripts\activate
 Create a .env file in the backend directory and add the following:
 
 ```
-SECRET_KEY=your_django_secret_key
-DEBUG=True
-ALLOWED_HOSTS=localhost,127.0.0.1
-AZURE_STORAGE_ACCOUNT_NAME=your_storage_account_name
-AZURE_STORAGE_ACCOUNT_KEY=your_storage_account_key
-AZURE_CONTAINER_NAME=jobs
-STORAGE_VAULT_CONNECTION_STRING=your_connection_string
-GEMINI_API_KEY=your_gemini_api_key
+# Django secret key for cryptographic signing
+DJANGO_SECRET_KEY=your_django_secret_key_here
+
+# Azure Form Recognizer credentials for resume parsing
+FORM_RECOGNIZER_ENDPOINT=https://<your-form-recognizer-resource>.cognitiveservices.azure.com/
+FORM_RECOGNIZER_KEY=your_form_recognizer_key_here
+
+# Azure Active Directory (AAD) configuration
+AD_APPLICATION_ID=your_aad_application_id_here
+AD_DIRECTORY_ID=your_aad_directory_tenant_id_here
+
+# Azure AD application secrets for the Resume Screener app registration
+RESUME_SCREENER_AD_APPLICATION_SECRET_VALUE=your_resume_screener_client_secret_value_here
+RESUME_SCREENER_AD_APPLICATION_SECRET_ID=your_resume_screener_client_secret_id_here
+
+# Azure AD Object IDs for role-based access control
+APPLICANT_OBJECT_ID=object_id_for_applicant_role_group
+RECRUITER_OBJECT_ID=object_id_for_recruiter_role_group
+
+# Azure Cosmos DB (MongoDB API) configuration
+AZURE_COSMOS_DB_ENDPOINT=https://<your-cosmosdb-account>.mongo.cosmos.azure.com/
+AZURE_COSMOS_DB_USERNAME=your_cosmos_db_username_here
+AZURE_COSMOS_DB_KEY=your_cosmos_db_primary_key_here
+
+# Gemini AI API Key for resume competency analysis
+GEMINI_API_KEY=your_gemini_api_key_here
+
+# Azure Blob Storage connection string
+STORAGE_VAULT_CONNECTION_STRING=your_full_azure_blob_connection_string_here
+
+# Azure Storage Account details for resume and JSON storage
+AZURE_STORAGE_ACCOUNT_NAME=your_storage_account_name_here
+AZURE_STORAGE_ACCOUNT_KEY=your_storage_account_key_here
+AZURE_CONTAINER_NAME=jobs  # Default container name used in project
+
 ```
 
 ### 5. Run the Development Server
